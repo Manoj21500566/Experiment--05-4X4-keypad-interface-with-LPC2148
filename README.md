@@ -290,13 +290,19 @@ void LCD_init()
 
 
 ## Output screen shots :
-Display Off:
+### Display Off:
+
+
 ![1](https://user-images.githubusercontent.com/94588708/201322920-8c0b6c28-5eb3-402f-9964-aff5ca9a4ef2.png)
 
-Display On:
+### Display On:
+
+
 ![2](https://user-images.githubusercontent.com/94588708/201322982-744f9936-e45b-416d-bdfb-c1e621cb77fe.png)
 
-Circuit Diagram:
+### Circuit Diagram:
+
+
 ![3](https://user-images.githubusercontent.com/94588708/201323005-2264a1dc-17b0-46de-b751-3257cb6e6e12.png)
 
 
